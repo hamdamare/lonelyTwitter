@@ -19,7 +19,7 @@ public  abstract class Tweet {
 
     public void onClick(View v) {
 
-
+    //array list of moods
 
         String happy = "happy";
         String sad = "sad";

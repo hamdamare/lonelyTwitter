@@ -9,7 +9,7 @@ import java.util.Date;
 /**
  * Created by hamdamare on 2018-01-19.
  */
-
+//mood super class
 public abstract class Mood {
     private String date;
 
